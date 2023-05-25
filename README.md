@@ -6,3 +6,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 
 - Basic Data Types
      - [Problem](https://www.hackerrank.com/challenges/nested-list/problem) Nested List [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/BasicDataTypes/nested-list.py)
+     - [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) Finding the percentage [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/BasicDataTypes/finding-the-percentage.py)
