@@ -18,3 +18,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) Finding the percentage [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/finding-the-percentage.py)
   - [Problem](https://www.hackerrank.com/challenges/python-lists/problem) Lists [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/python-lists.py)
   - [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) Tuples [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/python-tuples.py)
+- Strings
+  - [Problem](https://www.hackerrank.com/challenges/swap-case/problem) Tuples [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/swap-case.py)
