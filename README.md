@@ -9,6 +9,7 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) Arithmetic Operators [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/01_Introduction/python-arithmetic-operators.py)
   - [Problem](https://www.hackerrank.com/challenges/python-division/problem) Python: Division [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/01_Introduction/python-division.py)
   - [Problem](https://www.hackerrank.com/challenges/python-loops/problem) Loops [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/01_Introduction/python-loops.py)
+  - [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) Write-a-function [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/01_Introduction/write-a-function.py)
 - Basic Data Types
   - [Problem](https://www.hackerrank.com/challenges/nested-list/problem) Nested List [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/nested-list.py)
   - [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) Finding the percentage [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/finding-the-percentage.py)
