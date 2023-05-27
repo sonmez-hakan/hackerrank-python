@@ -13,6 +13,7 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-print/problem) Print Function [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/01_Introduction/python-print.py)
 - Basic Data Types
   - [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) List Comprehensions [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/list-comprehensions.py)
+  - [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) Find the Runner-Up Score! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/find-second-maximum-number-in-a-list.py)
   - [Problem](https://www.hackerrank.com/challenges/nested-list/problem) Nested List [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/nested-list.py)
   - [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) Finding the percentage [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/finding-the-percentage.py)
   - [Problem](https://www.hackerrank.com/challenges/python-lists/problem) Lists [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/02_BasicDataTypes/python-lists.py)
