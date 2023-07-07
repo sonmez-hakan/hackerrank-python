@@ -25,3 +25,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem) What's Your Name? [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/whats-your-name.py)
   - [Problem](https://www.hackerrank.com/challenges/python-mutations/problem) Mutations [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/python-mutations.py)
   - [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) Find a string [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/find-a-string.py)
+  - [Problem](https://www.hackerrank.com/challenges/string-validators/problem) String Validators [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/string-validators.py)
