@@ -30,3 +30,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) Text Wrap [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/text-wrap.py)
   - [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) Designer Door Mat [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/designer-door-mat.py)
   - [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) String Formatting [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/python-string-formatting.py)
+  - [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) String Formatting [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/alphabet-rangoli.py)
