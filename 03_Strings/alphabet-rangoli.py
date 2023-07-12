@@ -9,9 +9,7 @@ def print_rangoli(size):
 
 
 def make_str(limit, highest, total):
-    string = ""
-    for y in range(0, limit):
-        string += chr(highest - y) + "-"
+    string = "-".join([chr(highest - y) for y in range(0, limit)])
     print((string + chr(highest - limit) + string[::-1]).center(total * 2 + 1, '-'))
 
 
