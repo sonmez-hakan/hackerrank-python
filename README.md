@@ -34,3 +34,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/capitalize/problem) Capitalize [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/capitalize.py)
   - [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) The Minion Game [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/the-minion-game.py)
   - [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) Merge the Tools! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/merge-the-tools.py)
+- Sets
+  - [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) Merge the Tools! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/py-introduction-to-sets.py)
