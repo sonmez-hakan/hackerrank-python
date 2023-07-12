@@ -32,3 +32,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) String Formatting [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/python-string-formatting.py)
   - [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) Alphabet Rangoli [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/alphabet-rangoli.py)
   - [Problem](https://www.hackerrank.com/challenges/capitalize/problem) Capitalize [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/capitalize.py)
+  - [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) Capitalize [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/03_Strings/the-minion-game.py)
