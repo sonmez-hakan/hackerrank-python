@@ -4,6 +4,4 @@ if __name__ == '__main__':
     m = int(input())
     b = set(map(int, input().split()))
 
-    diff = a.symmetric_difference(b)
-    for x in sorted(list(diff)):
-        print(x)
+    print('\n'.join(map(str, list(a.symmetric_difference(b)))))
