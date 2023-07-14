@@ -37,3 +37,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 - Sets
   - [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) Introduction to Sets [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-introduction-to-sets.py)
   - [Problem](https://www.hackerrank.com/challenges/no-idea/problem) No Idea! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/no-idea.py)
+  - [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) Symmetric Difference [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/symmetric-difference.py)
