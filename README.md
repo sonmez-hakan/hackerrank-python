@@ -44,3 +44,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) Set .intersection() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-intersection-operation.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-mutations/problem) Set Mutations [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-mutations.py)
   - [Problem](https://www.hackerrank.com/challenges/py-the-captains-room/problem) The Captain's Room [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-the-captains-room.py)
+  - [Problem](https://www.hackerrank.com/challenges/py-check-subset/problem) Check Subset [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-check-subset.py)
