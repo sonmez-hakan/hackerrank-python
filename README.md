@@ -42,4 +42,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) Set .discard(), .remove() & .pop() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-discard-remove-pop.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) Set .union() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-union.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) Set .intersection() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-intersection-operation.py)
-  - [Problem](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) Set .difference() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-difference-operation.py)
+  - [Problem](https://www.hackerrank.com/challenges/py-set-mutations/problem) Set Mutations [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-mutations.py)
+  - 
