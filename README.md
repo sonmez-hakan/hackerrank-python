@@ -39,3 +39,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/no-idea/problem) No Idea! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/no-idea.py)
   - [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) Symmetric Difference [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/symmetric-difference.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) Set .add() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-add.py)
+  - [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) Set .discard(), .remove() & .pop() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/04_Sets/py-set-discard-remove-pop.py)
