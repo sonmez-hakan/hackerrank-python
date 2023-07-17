@@ -1,5 +1,4 @@
-a = int(input())
-b = int(input())
+a, b = int(input()), int(input()),
 c = divmod(a, b)
 print(c[0])
 print(c[1])
