@@ -52,3 +52,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) Triangle Quest 2 [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/triangle-quest-2.py)
   - [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) Mod Divmod [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/python-mod-divmod.py)
   - [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) Power - Mod Power [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/python-power-mod-power.py)
+  - [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) Integers Come In All Sizes [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/python-integers-come-in-all-sizes.py)
