@@ -47,9 +47,12 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/py-check-subset/problem) Check Subset [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-check-subset.py)
   - [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) Check Strict Superset [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-check-strict-superset.py)
 - Math
+  - [Problem](https://www.hackerrank.com/challenges/triangle-quest-1/problem) Triangle Quest 1 [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/triangle-quest-1.py)
   - [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) Polar Coordinates [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/polar-coordinates.py)
   - [Problem](https://www.hackerrank.com/challenges/find-angle/problem) Find Angle MBC [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/find-angle.py)
   - [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) Triangle Quest 2 [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/triangle-quest-2.py)
   - [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) Mod Divmod [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/python-mod-divmod.py)
   - [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) Power - Mod Power [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/python-power-mod-power.py)
-  - [Problem](https://www.hackerrank.com/challenges/triangle-quest-1/problem) Triangle Quest 1 [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/triangle-quest-1.py)
+- Itertools
+  - [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) itertools.product() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-product.py)
+  
