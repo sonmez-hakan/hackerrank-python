@@ -1,7 +1,7 @@
-from itertools import permutations
+from itertools import combinations
 
 string, num = input().split()
-per = list(permutations(string, int(num)))
+com = list(combinations(string, int(num)))
 
-for p in sorted(per):
-    print(''.join(p))
+for c in sorted(com):
+    print(''.join(c))
