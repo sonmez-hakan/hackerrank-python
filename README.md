@@ -58,7 +58,7 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) itertools.permutations() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-permutations.py)
   - [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) itertools.combinations() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-combinations.py)
   - [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) itertools.combinations_with_replacement() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-combinations.py)
-  - [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) Compress the String! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/compress-the-strings.py)
+  - [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) Compress the String! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/compress-the-string.py)
   - [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) Iterables and Iterators [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/iterables-and-iterators.py)
   - [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) Maximize It! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/maximize-it.py)
   
