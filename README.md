@@ -57,4 +57,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) itertools.product() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-product.py)
   - [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) itertools.permutations() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-permutations.py)
   - [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) itertools.combinations() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-combinations.py)
+  - [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) itertools.combinations_with_replacement() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-combinations.py)
   
