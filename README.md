@@ -55,4 +55,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) Power - Mod Power [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Math/python-power-mod-power.py)
 - Itertools
   - [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) itertools.product() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-product.py)
+  - [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) itertools.permutations() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/itertools-permutations.py)
   
