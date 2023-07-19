@@ -1,15 +1,12 @@
 from collections import OrderedDict
 
-ordinary_dictionary = OrderedDict()
+ordered_dictionary = OrderedDict()
 
 for i in range(int(input())):
     item, price = input().rsplit(' ', 1)
-    price = int(price)
+    if item not in ordered_dictionary:
+        ordered_dictionary[item] = 0
+    ordered_dictionary[item] += int(price)
 
-    if item not in ordinary_dictionary:
-        ordinary_dictionary[item] = 0
-    ordinary_dictionary[item] += price
-
-for item, price in ordinary_dictionary.items():
+for item, price in ordered_dictionary.items():
     print(item + " " + str(price))
-
