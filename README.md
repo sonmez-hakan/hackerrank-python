@@ -61,4 +61,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) Compress the String! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/compress-the-string.py)
   - [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) Iterables and Iterators [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/iterables-and-iterators.py)
   - [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) Maximize It! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/maximize-it.py)
-  
+- Collections
+  - [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) collections.Counter() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/collections-counter.py)
