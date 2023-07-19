@@ -63,3 +63,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) Maximize It! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/maximize-it.py)
 - Collections
   - [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) collections.Counter() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/collections-counter.py)
+  - [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) DefaultDict Tutorial [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/defaultdict-tutorial.py)
