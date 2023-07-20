@@ -71,4 +71,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/most-commons/problem) Company Logo [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Collections/most-commons.py)
   - [Problem](https://www.hackerrank.com/challenges/piling-up/problem) Piling Up! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Collections/piling-up.py)
 - Date and Time
-  - [Problem](https://www.hackerrank.com/challenges/piling-up/problem) Calendar Module [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/DateAndTime/calendar-module.py)
+  - [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) Calendar Module [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/DateAndTime/calendar-module.py)
+  - [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) Time Delta [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/DateAndTime/python-time-delta.py)
