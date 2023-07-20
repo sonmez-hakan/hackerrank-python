@@ -66,3 +66,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) DefaultDict Tutorial [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/defaultdict-tutorial.py)
   - [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) Collections.namedtuple() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/py-collections-namedtuple.py)
   - [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) Collections.OrderedDict() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/py-collections-ordereddict.py)
+  - [Problem](https://www.hackerrank.com/challenges/word-order/problem) Word Order [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/word-order.py)
