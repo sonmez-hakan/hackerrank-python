@@ -1,5 +1,4 @@
-from calendar import *
+from calendar import day_name, weekday
 
-month, day, year = map(int, input().split())
-weekday_index = weekday(year, month, day)
-print(day_name[weekday_index].upper())
+t = list(map(int, input().split()))
+print(day_name[weekday(*(t[2:] + t[:2]))].upper())
