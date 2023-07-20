@@ -68,3 +68,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) Collections.OrderedDict() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/py-collections-ordereddict.py)
   - [Problem](https://www.hackerrank.com/challenges/word-order/problem) Word Order [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/word-order.py)
   - [Problem](https://www.hackerrank.com/challenges/py-collections-deque/problem) Collections.deque() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/py-collections-deque.py)
+  - [Problem](https://www.hackerrank.com/challenges/most-commons/problem) Company Logo [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Itertools/most-commons.py)
