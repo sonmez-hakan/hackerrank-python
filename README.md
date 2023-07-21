@@ -76,3 +76,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 - Errors and Exceptions
   - [Problem](https://www.hackerrank.com/challenges/exceptions/problem) Exceptions [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ErrorsAndExceptions/exceptions.py)
   - [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) Incorrect Regex [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ErrorsAndExceptions/incorrect-regex.py)
+- Classes
+  - [Problem](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) Classes: Dealing with Complex Numbers [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Classes/class-1-dealing-with-complex-numbers.py)
