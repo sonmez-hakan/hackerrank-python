@@ -75,3 +75,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) Time Delta [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/DateAndTime/python-time-delta.py)
 - Errors and Exceptions
   - [Problem](https://www.hackerrank.com/challenges/exceptions/problem) Exceptions [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ErrorsAndExceptions/exceptions.py)
+  - [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) Incorrect Regex [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ErrorsAndExceptions/incorrect-regex.py)
