@@ -85,3 +85,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-eval/problem) Python Evaluation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/python-eval.py)
   - [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) Athlete Sort [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/python-sort-sort.py)
   - [Problem](https://www.hackerrank.com/challenges/any-or-all/problem) Any or All [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/any-or-all.py)
+  - [Problem](https://www.hackerrank.com/challenges/ginorts/problem) ginortS [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/ginorts.py)
