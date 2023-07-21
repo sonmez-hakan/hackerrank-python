@@ -73,3 +73,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 - Date and Time
   - [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) Calendar Module [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/DateAndTime/calendar-module.py)
   - [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) Time Delta [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/DateAndTime/python-time-delta.py)
+- Errors and Exceptions
+  - [Problem](https://www.hackerrank.com/challenges/exceptions/problem) Exceptions [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ErrorsAndExceptions/exceptions.py)
