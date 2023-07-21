@@ -83,3 +83,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/zipped/problem) Zipped! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/zipped.py)
   - [Problem](https://www.hackerrank.com/challenges/input/problem) Input() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/input.py)
   - [Problem](https://www.hackerrank.com/challenges/python-eval/problem) Python Evaluation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/python-eval.py)
+  - [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) Athlete Sort [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/python-sort-sort.py)
