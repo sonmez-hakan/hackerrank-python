@@ -81,3 +81,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) Class 2 - Find the Torsional Angle [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Classes/class-2-find-the-torsional-angle.py)
 - Built-Ins
   - [Problem](https://www.hackerrank.com/challenges/zipped/problem) Zipped! [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/zipped.py)
+  - [Problem](https://www.hackerrank.com/challenges/input/problem) Input() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/input.py)
