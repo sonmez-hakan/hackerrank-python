@@ -91,3 +91,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/reduce-function/problem) Reduce Function [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/PythonFunctionals/reduce-function.py)
 - Regex and Parsing
   - [Problem](https://www.hackerrank.com/challenges/introduction-to-regex/problem) Detect Floating Point Number [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/introduction-to-regex.py)
+  - [Problem](https://www.hackerrank.com/challenges/introduction-to-regex/problem) Re.split() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/re-split.py)
