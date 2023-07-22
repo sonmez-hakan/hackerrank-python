@@ -88,3 +88,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 - Python Functionals
   - [Problem](https://www.hackerrank.com/challenges/any-or-all/problem) Any or All [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/PythonFunctionals/map-and-lambda-expression.py)
   - [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) Validating Email Addresses With a Filter [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/PythonFunctionals/validate-list-of-email-address-with-filter.py)
+  - [Problem](https://www.hackerrank.com/challenges/reduce-function/problem) Reduce Function [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/PythonFunctionals/reduce-function.py)
