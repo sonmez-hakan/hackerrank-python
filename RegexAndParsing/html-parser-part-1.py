@@ -18,5 +18,4 @@ class MyHTMLParser(HTMLParser):
         [print(f'-> {key} > {val}') for key, val in attrs]
 
 
-parser = MyHTMLParser()
-parser.feed(''.join([input() for _ in range(int(input()))]))
+MyHTMLParser().feed(''.join([input() for _ in range(int(input()))]))
