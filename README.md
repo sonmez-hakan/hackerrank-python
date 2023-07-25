@@ -101,3 +101,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem) Validating and Parsing Email Addresses [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/validating-named-email-addresses.py)
   - [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) Hex Color Code [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/hex-color-code.py)
   - [Problem](https://www.hackerrank.com/challenges/html-parser-part-1/problem) HTML Parser - Part 1 [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/html-parser-part-1.py)
+  - [Problem](https://www.hackerrank.com/challenges/html-parser-part-2/problem) HTML Parser - Part 2 [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/html-parser-part-2.py)
