@@ -99,3 +99,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) Validating Roman Numerals [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/re-start-re-end.py)
   - [Problem](https://www.hackerrank.com/challenges/validating-the-phone-number/problem) Validating phone numbers [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/validating-the-phone-number.py)
   - [Problem](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem) Validating and Parsing Email Addresses [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/validating-named-email-addresses.py)
+  - [Problem](https://www.hackerrank.com/challenges/hex-color-code/problem) Hex Color Code [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/hex-color-code.py)
