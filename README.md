@@ -106,3 +106,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/validating-uid/problem) Validating UID [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/RegexAndParsing/validating-uid.py)
 - XML
   - [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) XML 1 - Find the Score [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/XML/xml-1-find-the-score.py)
+  - [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) XML2 - Find the Maximum Depth [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/XML/xml2-find-the-maximum-depth.py)
