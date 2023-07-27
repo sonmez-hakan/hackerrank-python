@@ -11,5 +11,5 @@ def st(c):
 
 
 l = list(input())
-l.sort(key= st)
+l.sort(key=st)
 print(''.join(l))
