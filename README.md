@@ -109,3 +109,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) XML2 - Find the Maximum Depth [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/XML/xml2-find-the-maximum-depth.py)
 - Closures and Decorators
   - [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) Standardize Mobile Number Using Decorators [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ClosuresAndDecorators/standardize-mobile-number-using-decorators.py)
+  - [Problem](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) Decorators 2 - Name Directory [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ClosuresAndDecorators/decorators-2-name-directory.py)
