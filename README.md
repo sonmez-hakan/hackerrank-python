@@ -88,6 +88,7 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-eval/problem) Python Evaluation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/python-eval.py)
   - [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) Athlete Sort [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/python-sort-sort.py)
   - [Problem](https://www.hackerrank.com/challenges/any-or-all/problem) Any or All [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/any-or-all.py)
+  - [Problem](https://www.hackerrank.com/challenges/ginorts/problem) ginortS [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Built-Ins/ginorts.py)
 - Python Functionals
   - [Problem](https://www.hackerrank.com/challenges/any-or-all/problem) Any or All [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/PythonFunctionals/map-and-lambda-expression.py)
   - [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) Validating Email Addresses With a Filter [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/PythonFunctionals/validate-list-of-email-address-with-filter.py)
