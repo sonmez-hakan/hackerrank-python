@@ -111,4 +111,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) Standardize Mobile Number Using Decorators [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ClosuresAndDecorators/standardize-mobile-number-using-decorators.py)
   - [Problem](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) Decorators 2 - Name Directory [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/ClosuresAndDecorators/decorators-2-name-directory.py)
 - Numpy
-  - [Problem](https://www.hackerrank.com/challenges/dnp-arrays/problem) Arrays [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-arrays.py)
+  - [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) Arrays [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-arrays.py)
+  - [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) Shape and Reshape [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-shape-reshape.py)
