@@ -122,3 +122,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) Zeros and Ones [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-zeros-and-ones.py)
   - [Problem](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) Eye and Identity [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-eye-and-identity.py)
   - [Problem](https://www.hackerrank.com/challenges/np-array-mathematics/problem) Array Mathematics [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-array-mathematics.py)
+  - [Problem](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem) Floor, Ceil and Rint [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/floor-ceil-and-rint.py)
