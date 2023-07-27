@@ -113,3 +113,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 - Numpy
   - [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) Arrays [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-arrays.py)
   - [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) Shape and Reshape [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-shape-reshape.py)
+  - [Problem](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) Transpose and Flatten [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-transpose-and-flatten.py)
