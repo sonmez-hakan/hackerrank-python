@@ -126,3 +126,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) Sum and Prod [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-sum-and-prod.py)
   - [Problem](https://www.hackerrank.com/challenges/np-min-and-max/problem) Min and Max [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-min-and-max.py)
   - [Problem](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) Mean, Var, and Std [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-mean-var-and-std.py)
+  - [Problem](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) Mean, Var, and Std [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-dot-and-cross.py)
