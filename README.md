@@ -21,7 +21,7 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) Tuples [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/BasicDataTypes/python-tuples.py)
 - Strings
   - [Problem](https://www.hackerrank.com/challenges/swap-case/problem) Swap Case [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Strings/swap-case.py)
-  - [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) Tuples [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Strings/python-string-split-and-join.py)
+  - [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) String Split and Join [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Strings/python-string-split-and-join.py)
   - [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem) What's Your Name? [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Strings/whats-your-name.py)
   - [Problem](https://www.hackerrank.com/challenges/python-mutations/problem) Mutations [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Strings/python-mutations.py)
   - [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) Find a string [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Strings/find-a-string.py)
@@ -42,6 +42,8 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) Set .discard(), .remove() & .pop() [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-set-discard-remove-pop.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) Set .union() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-set-union.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) Set .intersection() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-set-intersection-operation.py)
+  - [Problem](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) Set .difference() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-set-difference-operation.py)
+  - [Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) Set .symmetric_difference() Operation [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-set-symmetric-difference-operation.py)
   - [Problem](https://www.hackerrank.com/challenges/py-set-mutations/problem) Set Mutations [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-set-mutations.py)
   - [Problem](https://www.hackerrank.com/challenges/py-the-captains-room/problem) The Captain's Room [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-the-captains-room.py)
   - [Problem](https://www.hackerrank.com/challenges/py-check-subset/problem) Check Subset [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Sets/py-check-subset.py)
