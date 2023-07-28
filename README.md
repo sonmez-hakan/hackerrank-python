@@ -127,3 +127,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/np-min-and-max/problem) Min and Max [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-min-and-max.py)
   - [Problem](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) Mean, Var, and Std [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-mean-var-and-std.py)
   - [Problem](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) Dot and Cross [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-dot-and-cross.py)
+  - [Problem](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) Inner and Outer [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-inner-and-outer.py)
