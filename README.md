@@ -132,3 +132,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
   - [Problem](https://www.hackerrank.com/challenges/np-linear-algebra/problem) Linear Algebra [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Numpy/np-linear-algebra.py)
 - Debugging
   - [Problem](https://www.hackerrank.com/challenges/words-score/problem) Words Score [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Debugging/words-score.py)
+  - [Problem](https://www.hackerrank.com/challenges/default-arguments/problem) Default Arguments [Solution](https://github.com/sonmez-hakan/hackerrank-python/blob/master/Debugging/default-arguments.py)
